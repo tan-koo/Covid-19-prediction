@@ -5,4 +5,4 @@ The information is taken directly from https://data.go.th/ (05 July 2021). The g
 
 ![image](pictures/website.jpg)
 
-👉 [jupyter notebook](https://github.com/tan-koo/Covid-19-prediction/blob/master/jupyter/covid.ipynb) This is the way in which I develop the ```code```
+👉 [jupyter notebook](https://github.com/tan-koo/Covid-19-prediction/blob/master/jupyter/covid.ipynb) continue to the ```code section```
